@@ -1,3 +1,8 @@
+#Custom
+[Dd]ebug/
+*vcxproj
+*vcxproj.filters
+
 # Object files
 *.o
 *.ko
